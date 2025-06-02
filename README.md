@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
 ## 🌐 Live Demo
-[View JobTrends Analysis Platform](https://jobtrends-market-analysis.com)
+[View JobTrends Analysis Platform](https://job-trends.netlify.app/)
 
 ## 📝 Project Overview
 JobTrends: Market Analysis is a comprehensive web application designed to provide in-depth insights into the ever-evolving job market. This platform offers powerful analytics, career trend visualization, and skill demand forecasting to help users make informed career decisions. The application features a modern, responsive design with a cyber-tech aesthetic.
