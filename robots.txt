@@ -1,0 +1,22 @@
+# JobTrends Market Analysis - Platform Robot Rules
+# Copyright © 2023 Rohit Gunthal
+
+User-agent: *
+Allow: /
+Allow: /job-profiles/
+Allow: /analytics/
+Allow: /trends/
+Allow: /contact/
+Allow: /about/
+Allow: /privacy-policy/
+Allow: /terms-of-service/
+
+# Prevent crawling of admin areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /assets/
+
+# Sitemap location
+Sitemap: https://jobtrends-market-analysis.com/sitemap.xml
+
+# Website owner: Rohit Gunthal (rohitgunthal44@gmail.com) 
